@@ -1,0 +1,178 @@
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\csc.exe
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\vbc.exe
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\VBCSCompiler.exe
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\task2.dll.config
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\task2.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\task2.pdb
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Antlr3.Runtime.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\EntityFramework.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\EntityFramework.SqlServer.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Newtonsoft.Json.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Owin.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Helpers.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Mvc.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Optimization.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Razor.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.WebPages.Deployment.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.WebPages.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.WebPages.Razor.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\WebGrease.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Helpers.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Mvc.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Optimization.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.Razor.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.WebPages.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.WebPages.Deployment.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\System.Web.WebPages.Razor.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Antlr3.Runtime.pdb
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Newtonsoft.Json.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\EntityFramework.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\EntityFramework.SqlServer.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.Helpers.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.Mvc.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.Optimization.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.Razor.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.WebPages.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\System.Web.WebPages.Razor.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\EntityFramework.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\EntityFramework.SqlServer.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.Security.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\obj\Debug\task2.dll
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\obj\Debug\task2.pdb
+c:\users\denis\documents\visual studio 2015\Projects\task2\task2\bin\Duke.Owin.VkontakteMiddleware.dll
+D:\Сеть\task2\task2\bin\roslyn\csc.exe
+D:\Сеть\task2\task2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Сеть\task2\task2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Сеть\task2\task2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Сеть\task2\task2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Сеть\task2\task2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Сеть\task2\task2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Сеть\task2\task2\bin\roslyn\System.Collections.Immutable.dll
+D:\Сеть\task2\task2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Сеть\task2\task2\bin\roslyn\vbc.exe
+D:\Сеть\task2\task2\bin\roslyn\VBCSCompiler.exe
+D:\Сеть\task2\task2\bin\roslyn\VBCSCompiler.exe.config
+D:\Сеть\task2\task2\bin\task2.dll.config
+D:\Сеть\task2\task2\bin\task2.dll
+D:\Сеть\task2\task2\bin\task2.pdb
+D:\Сеть\task2\task2\bin\Antlr3.Runtime.dll
+D:\Сеть\task2\task2\bin\Duke.Owin.VkontakteMiddleware.dll
+D:\Сеть\task2\task2\bin\EntityFramework.dll
+D:\Сеть\task2\task2\bin\EntityFramework.SqlServer.dll
+D:\Сеть\task2\task2\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Сеть\task2\task2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Сеть\task2\task2\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Сеть\task2\task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Google.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Сеть\task2\task2\bin\Microsoft.Web.Infrastructure.dll
+D:\Сеть\task2\task2\bin\Newtonsoft.Json.dll
+D:\Сеть\task2\task2\bin\Owin.dll
+D:\Сеть\task2\task2\bin\System.Web.Helpers.dll
+D:\Сеть\task2\task2\bin\System.Web.Mvc.dll
+D:\Сеть\task2\task2\bin\System.Web.Optimization.dll
+D:\Сеть\task2\task2\bin\System.Web.Razor.dll
+D:\Сеть\task2\task2\bin\System.Web.WebPages.Deployment.dll
+D:\Сеть\task2\task2\bin\System.Web.WebPages.dll
+D:\Сеть\task2\task2\bin\System.Web.WebPages.Razor.dll
+D:\Сеть\task2\task2\bin\WebGrease.dll
+D:\Сеть\task2\task2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Сеть\task2\task2\bin\System.Web.Helpers.xml
+D:\Сеть\task2\task2\bin\System.Web.Mvc.xml
+D:\Сеть\task2\task2\bin\System.Web.Optimization.xml
+D:\Сеть\task2\task2\bin\System.Web.Razor.xml
+D:\Сеть\task2\task2\bin\System.Web.WebPages.xml
+D:\Сеть\task2\task2\bin\System.Web.WebPages.Deployment.xml
+D:\Сеть\task2\task2\bin\System.Web.WebPages.Razor.xml
+D:\Сеть\task2\task2\bin\Antlr3.Runtime.pdb
+D:\Сеть\task2\task2\bin\Newtonsoft.Json.xml
+D:\Сеть\task2\task2\bin\EntityFramework.xml
+D:\Сеть\task2\task2\bin\EntityFramework.SqlServer.xml
+D:\Сеть\task2\task2\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Сеть\task2\task2\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Сеть\task2\task2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Google.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Сеть\task2\task2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Сеть\task2\task2\bin\ru\System.Web.Helpers.resources.dll
+D:\Сеть\task2\task2\bin\ru\System.Web.Mvc.resources.dll
+D:\Сеть\task2\task2\bin\ru\System.Web.Optimization.resources.dll
+D:\Сеть\task2\task2\bin\ru\System.Web.Razor.resources.dll
+D:\Сеть\task2\task2\bin\ru\System.Web.WebPages.resources.dll
+D:\Сеть\task2\task2\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Сеть\task2\task2\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Сеть\task2\task2\bin\ru\EntityFramework.resources.dll
+D:\Сеть\task2\task2\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Сеть\task2\task2\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Сеть\task2\task2\obj\Debug\task2.csprojResolveAssemblyReference.cache
+D:\Сеть\task2\task2\obj\Debug\task2.dll
+D:\Сеть\task2\task2\obj\Debug\task2.pdb
